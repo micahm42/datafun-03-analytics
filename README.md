@@ -196,6 +196,8 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 ## Documentation
 
+- within the etvl_text I have to add dict[str, int | float | str] to the summary and verify. The new float was causing and error. 
+
 - [Documentation](https://denisecase.github.io/datafun-03-analytics/)
 
 ## Data Card
