@@ -1,0 +1,6 @@
+Text File Summary
+Lines: 4319
+Words: 25652
+Characters: 138355
+Average words per line: 5.939337809678166
+Longest line: 91
